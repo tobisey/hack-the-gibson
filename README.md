@@ -1,3 +1,3 @@
 # hack-the-gibson
 
-<img src="https://i.imgur.com/CG0pKmo.gif" alt="hack the gibson gif">
+<img src="http://tseymour.xyz/htgtitle.gif" alt="hack the gibson gif">
