@@ -12,4 +12,4 @@
 
 <h2>Contact</h2>
 <div><a href="mailto:tobi.seymour@gmail.com">tobi.seymour@gmail.com</a></div>
-<div><a href="https://www.linkedin.com/in/tobiseymour/" target="_blank">LinkedIn</a></div>
+<div><a href="https://www.linkedin.com/in/tobiseymour/">LinkedIn</a></div>
