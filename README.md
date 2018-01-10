@@ -8,7 +8,7 @@
 <p><strong>Front-End</strong>: HTML, CSS, jQuery</p>
 
 <h2>Preview</h2>
-<img src="http://tseymour.xyz/htgtitle.gif" alt="hack the gibson gif">
+<img src="htg.gif" alt="hack the gibson gif">
 
 <h2>Contact</h2>
 <div><a href="mailto:tobi.seymour@gmail.com">tobi.seymour@gmail.com</a></div>
