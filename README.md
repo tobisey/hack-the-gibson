@@ -11,5 +11,6 @@
 <img src="http://tseymour.xyz/htgtitle.gif" alt="hack the gibson gif">
 
 <h2>Contact</h2>
-<a href="mailto:tobi.seymour@gmail.com">tobi.seymour@gmail.com</a>
+<a href="mailto:tobi.seymour@gmail.com">tobi.seymour@gmail.com</a
+<br>
 <a href="https://www.linkedin.com/in/tobiseymour/">LinkedIn</a>
