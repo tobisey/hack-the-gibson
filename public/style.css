@@ -221,3 +221,23 @@ section {
 .hover {
   opacity: 0.4;
 }
+
+@media screen and (max-width:900px){
+    .box {
+      width: 10vw;
+      height: 10vw;
+    }
+
+    .col {
+      width: 25vw;
+      height: 42vw;
+      margin: 0px 2px;
+    }
+
+    .victory-message {
+      width: 40vw;
+      height: 20vw;
+      margin-top: 40vh;
+      font-size: 6vw;
+    }
+}
