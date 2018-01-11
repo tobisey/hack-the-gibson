@@ -1,0 +1,23 @@
+{
+  "name": "hack_the_gibson",
+  "version": "1.0.0",
+  "description": "<h1><i>hack-the-gibson</i></h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobisey/hack-the-gibson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobisey/hack-the-gibson/issues"
+  },
+  "homepage": "https://github.com/tobisey/hack-the-gibson#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
