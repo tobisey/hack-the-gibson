@@ -10,6 +10,9 @@
 <h2><i>preview</i></h2>
 <img src="htg.gif" alt="hack the gibson gif">
 
+<h2><i>view site</i></h2>
+<div><a href="https://hack-the-gibson.herokuapp.com/">hack-the-gibson.herokuapp.com/</a></div>
+
 <h2><i>get in touch</i></h2>
 <div><a href="mailto:tobi.seymour@gmail.com">tobi.seymour@gmail.com</a></div>
 <div><a href="https://www.linkedin.com/in/tobiseymour/">LinkedIn</a></div>
