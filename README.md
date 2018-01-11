@@ -6,6 +6,7 @@
 <h2><i>tech</i></h2>
 <p><strong>Language</strong>: Javascript</p>
 <p><strong>Front-End</strong>: HTML, CSS, jQuery</p>
+<p><strong>Back-End</strong>: Node.js, Express</p>
 
 <h2><i>preview</i></h2>
 <img src="htg.gif" alt="hack the gibson gif">
